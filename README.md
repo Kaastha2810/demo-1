@@ -1,4 +1,4 @@
 # demo-1
-First Trial.
+This is my first Git Repository.
 <br>
-Author-AASTHA
+Author - Aastha
